@@ -1,0 +1,4 @@
+django-nested-admin==3.0.10
+exileui
+django
+pip install django-suit==0.2.23
